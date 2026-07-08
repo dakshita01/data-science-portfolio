@@ -1,0 +1,109 @@
+animal,category,duration
+Emperor Penguin,penguins,32.2
+King Penguin,penguins,9.2
+Rockhopper Penguin,penguins,3.2
+Macaroni Penguin,penguins,6.3
+Royal Penguin,penguins,7.5
+Little Penguin,penguins,1.5
+Yellow-Eyed Penguin,penguins,2.2
+Adelie Penguin,penguins,3.4
+Chinstrap Penguin,penguins,3.7
+Gentoo Penguin,penguins,7.8
+African Penguin,penguins,4.6
+Humboldt Penguin,penguins,2.7
+Magellanic Penguin,penguins,4.6
+Galapagos Penguin,penguins,3.2
+Razorbill,other seabirds,1.7
+Little Auk,other seabirds,1.5
+Cory's Shearwater,other seabirds,0.5
+Streaked Shearwater,other seabirds,0.3
+Black Guillemot,other seabirds,2.2
+Rhinoceros Auklet,other seabirds,2.5
+Atlantic Puffin,other seabirds,2.1
+Northern Fulmar,other seabirds,0.1
+Northern Gannet,other seabirds,0.7
+Cape Gannet,other seabirds,0.4
+Australasian Gannet,other seabirds,0.7
+Abbotts Booby,other seabirds,0.4
+South-Georgian Diving Petrel,other seabirds,0.7
+Common Diving Petrel,other seabirds,0.6
+Imperial Cormorant,other seabirds,3.2
+Imperial Shag,other seabirds,5.1
+Cape Cormorant,other seabirds,1.2
+Japanese Cormorant,other seabirds,0.8
+Great Cormorant,other seabirds,1.3
+South-Georgian Shag,other seabirds,4.8
+Flightless Cormorant,other seabirds,3.3
+Crozet Shag,other seabirds,6.2
+Heard Shag,other seabirds,4.0
+Pelagic Cormorant,other seabirds,2.0
+Macquarie Shag,other seabirds,2.9
+Kerguelen Shag,other seabirds,5.4
+White-Chinned Petrel,other seabirds,0.4
+Cassin's Auklet,other seabirds,1.7
+Great Shearwater,other seabirds,0.7
+Sooty Shearwater,other seabirds,0.7
+Balearic Shearwater,other seabirds,1.1
+Common Eider,other seabirds,1.3
+Nazca Booby,other seabirds,0.1
+Blue-Footed Booby,other seabirds,0.7
+Red-Footed Booby,other seabirds,0.1
+Peruvian Booby,other seabirds,0.3
+Ancient Murrelet,other seabirds,1.2
+Shy Albatross,other seabirds,0.3
+Common Guillemot,other seabirds,3.5
+Brunnich's Guillemots,other seabirds,4.1
+South American Fur Seal,seals,7.1
+New Zealand Fur Seal,seals,11.2
+Galapagos Fur Seal,seals,6.5
+Antarctic Fur Seal,seals,10.0
+Juan Fernandez Fur Seal,seals,3.7
+Australian Fur Seal,seals,9.8
+Guadalupe Fur Seal,seals,6.0
+Sub-Antarctic Fur Seal,seals,6.5
+Northern Fur Seal,seals,6.0
+Hooded Seal,seals,52.0
+Bearded Seal,seals,18.7
+Grey Seal,seals,32.0
+Leopard Seal,seals,15.0
+Weddell Seal,seals,96.0
+Crabeater Seal,seals,23.6
+Northern Elephant Seal,seals,119.0
+Southern Elephant Seal,seals,120.0
+Mediterranean Monk Seal,seals,6.7
+Ross Seal,seals,30.0
+Harp Seal,seals,25.0
+Ringed Seal,seals,26.4
+Baikal Seal,seals,15.4
+Harbour Seal,seals,35.3
+Steller Sea Lion,seals,16.0
+Australian Sea Lion,sea lions,7.5
+New Zealand Sea Lion,sea lions,13.5
+California Sea Lion,sea lions,16.0
+Galapagos Sea Lion,sea lions,11.1
+Southern Sea Lion,sea lions,7.7
+Leatherback Turtle,turtles,68.5
+Baird's Beaked Whale,toothed whales,64.4
+Beluga Whale,toothed whales,15.5
+Short-Finned Pilot Whale,toothed whales,40.0
+Long-Finned Pilot Whale,toothed whales,12.7
+Northern Bottlenose Whale,toothed whales,94.0
+Blainville's Beaked Whale,toothed whales,83.8
+Narwhal,toothed whales,26.2
+Finless Porpoises,toothed whales,2.5
+Killer Whale,toothed whales,11.5
+Harbor Porpoise,toothed whales,5.4
+Sperm Whale,toothed whales,77.3
+False Killer Whale,toothed whales,14.6
+Pantropical Spotted Dolphin,toothed whales,5.0
+Cuvier's Beaked Whale,toothed whales,222.0
+Bowhead Whale,baleen whales,48.0
+Antarctic Minke Whale,baleen whales,7.2
+Bryde's Whale,baleen whales,7.9
+Blue Whale,baleen whales,16.1
+Fin Whale,baleen whales,16.9
+North Atlantic Right Whale,baleen whales,16.3
+Humpback Whale,baleen whales,24.0
+Atlantic Walrus,walruses,49.0
+Dungong,other marine mammals,10.0
+Florida Manatee,other marine mammals,24.0
