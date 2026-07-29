@@ -1,0 +1,610 @@
+location,year,severity
+"Australia, Coral Sea Northern",1998,S 
+"Australia, Coral Sea Northern",2002,S 
+"Australia, Coral Sea Northern",2004,M 
+"Australia, Coral Sea Northern",2016,S 
+"Australia, Coral Sea Southern",2016,M 
+"Australia, GBR Central",1980,M 
+"Australia, GBR Central",1983,M 
+"Australia, GBR Central",1987,M 
+"Australia, GBR Central",1992,M 
+"Australia, GBR Central",1994,M 
+"Australia, GBR Central",1998,S 
+"Australia, GBR Central",2002,S 
+"Australia, GBR Central",2016,S 
+"Australia, GBR Northern",1980,M 
+"Australia, GBR Northern",1983,M 
+"Australia, GBR Northern",1998,S 
+"Australia, GBR Northern",2002,S 
+"Australia, GBR Northern",2016,S 
+"Australia, GBR Southern",1998,S 
+"Australia, GBR Southern",2002,S 
+"Australia, GBR Southern",2006,M 
+"Australia, GBR Southern",2016,M 
+"Australia, Kimberly Coast",2016,S 
+"Australia, Lord Howe Island",2005,M 
+"Australia, Lord Howe Island",2010,S 
+"Australia, Lord Howe Island",2011,M 
+"Australia, Lord Howe Island",2012,M 
+"Australia, Lord Howe Island",2014,M 
+"Australia, Morton Bay",2007,M 
+"Australia, Morton Bay",2010,M 
+"Australia, Morton Bay",2012,M 
+"Australia, Morton Bay",2013,M 
+"Australia, Morton Bay",2016,M 
+"Australia, Ningaloo Reef",2011,S 
+"Australia, Ningaloo Reef",2016,M 
+"Australia, Pilbara (Dampier, Montebello, Onslow) ",2011,S 
+"Australia, Pilbara (Dampier, Montebello, Onslow) ",2013,S 
+"Australia, Pilbara (Dampier, Montebello, Onslow) ",2014,M 
+"Australia, Solitary Island",1998,S 
+"Australia, Solitary Island",2001,M 
+"Australia, Solitary Island",2002,M 
+"Australia, Solitary Island",2005,M 
+"Australia, Solitary Island",2006,M 
+"Australia, Solitary Island",2007,M 
+"Australia, Solitary Island",2015,M 
+"Australia, Solitary Island",2016,S 
+"Australia, South West Rocks",1985,c
+"Australia, South West Rocks",2005,M 
+"Australia, South West Rocks",2016,S 
+"Australia, Southwest (Shark Bay, Abrohlos, Rottnest) ",2011,S 
+"Australia, Torres Strait ",2010,S 
+"Australia, Torres Strait ",2016,S 
+"Indonesia, Aceh ",2010,S 
+"Indonesia, Aceh ",2016,S 
+"Indonesia, Bali/Lombok ",1993,S 
+"Indonesia, Bali/Lombok ",1998,S 
+"Indonesia, Bali/Lombok ",2009,M 
+"Indonesia, Bali/Lombok ",2010,S 
+"Indonesia, Bali/Lombok ",2016,S 
+"Indonesia, Central Sulawesi ",1998,S 
+"Indonesia, Central Sulawesi ",2010,S 
+"Indonesia, Central Sulawesi ",2016,M 
+"Indonesia, Java ",1983,S 
+"Indonesia, Java ",1998,S 
+"Indonesia, Java ",2010,S 
+"Indonesia, Java ",2016,S 
+"Indonesia, Kalimantan ",1998,S 
+"Indonesia, Kalimantan ",2010,M 
+"Indonesia, Kalimantan ",2016,S 
+"Indonesia, North Sulawesi/Manado",1998,S 
+"Indonesia, North Sulawesi/Manado",2000,S
+"Indonesia, North Sulawesi/Manado",2010,S
+"Indonesia, North Sulawesi/Manado",2016,S
+"Indonesia, South Sulawesi",2010,S
+"Indonesia, South Sulawesi",2016,S
+"Indonesia, South-East Sulawesi/Wakatobi",1998,M
+"Indonesia, South-East Sulawesi/Wakatobi",2010,S
+"Indonesia, South-East Sulawesi/Wakatobi",2016,S
+"Indonesia, West/South Sumatra",1998,S
+"Indonesia, West/South Sumatra",2010,S
+"Indonesia, West/South Sumatra",2016,S
+"Japan, Kyushu",1998,S
+"Japan, Kyushu",2008,M
+"Japan, Kyushu",2010,S
+"Japan, Ryukyu Islands",1980,M
+"Japan, Ryukyu Islands",1983,M
+"Japan, Ryukyu Islands",1984,M
+"Japan, Ryukyu Islands",1986,M
+"Japan, Ryukyu Islands",1988,M
+"Japan, Ryukyu Islands",1998,S
+"Japan, Ryukyu Islands",2001,M
+"Japan, Ryukyu Islands",2004,M
+"Japan, Ryukyu Islands",2005,M
+"Japan, Ryukyu Islands",2006,M
+"Japan, Ryukyu Islands",2007,S
+"Japan, Ryukyu Islands",2008,M
+"Japan, Ryukyu Islands",2009,M
+"Japan, Ryukyu Islands",2010,M
+"Japan, Ryukyu Islands",2016,S
+Malacca Strait,1998,S
+Malacca Strait,2010,S
+Malacca Strait,2016,S
+"Papua New Guinea, Kimbe Bay",1997,M
+"Papua New Guinea, Kimbe Bay",1998,S
+"Papua New Guinea, Kimbe Bay",1999,M
+"Papua New Guinea, Kimbe Bay",2000,M
+"Papua New Guinea, Kimbe Bay",2001,M
+"Papua New Guinea, Kimbe Bay",2004,M
+"Papua New Guinea, Kimbe Bay",2008,S
+"Philippines,  Central/Southern",1981,M
+"Philippines,  Central/Southern",1995,M
+"Philippines,  Central/Southern",1997,M
+"Philippines,  Central/Southern",1998,S
+"Philippines,  Central/Southern",1999,M
+"Philippines,  Central/Southern",2000,M
+"Philippines,  Central/Southern",2005,M
+"Philippines,  Central/Southern",2008,M
+"Philippines,  Central/Southern",2010,S
+"Philippines,  Central/Southern",2014,M
+"Philippines,  Central/Southern",2015,M
+"Philippines,  Central/Southern",2016,S
+Solomon Islands,2000,S
+Solomon Islands,2011,M
+Solomon Islands,2012,S
+Solomon Islands,2015,S
+Solomon Islands,2016,M
+"Taiwan, Southern",1986,M
+"Taiwan, Southern",1987,S
+"Taiwan, Southern",1988,S
+"Taiwan, Southern",1998,S
+"Taiwan, Southern",2007,S
+"Taiwan, Southern",2008,S
+"Taiwan, Southern",2009,M
+"Taiwan, Southern",2014,M
+"Taiwan, Southern",2016,S
+"Thailand, Gulf of Thailand",1991,S
+"Thailand, Gulf of Thailand",1995,S
+"Thailand, Gulf of Thailand",1998,S
+"Thailand, Gulf of Thailand",2003,S
+"Thailand, Gulf of Thailand",2010,S
+"Thailand, Gulf of Thailand",2016,S
+"Vietnam, Con Dao Archipelago",1998,S
+"Vietnam, Con Dao Archipelago",2005,S
+"Vietnam, Con Dao Archipelago",2010,S
+"Vietnam, Con Dao Archipelago",2016,S
+"Australia, Ashmore Reef",1998,M
+"Australia, Ashmore Reef",2003,M
+"Australia, Ashmore Reef",2010,M
+"Australia, Ashmore Reef",2016,M
+"Australia, Christmas Island",1983,S
+"Australia, Christmas Island",1998,S
+"Australia, Christmas Island",2005,M
+"Australia, Christmas Island",2011,M
+"Australia, Christmas Island",2016,S
+"Australia, Cocos Island",1996,M
+"Australia, Cocos Island",1998,M
+"Australia, Cocos Island",2014,M
+"Australia, Cocos Island",2016,M
+"Australia, Rowley Shoals",2005,M
+"Australia, Rowley Shoals",2016,M
+"Australia, Scott Reef & Seringapatam Reef",1998,S
+"Australia, Scott Reef & Seringapatam Reef",2011,M
+"Australia, Scott Reef & Seringapatam Reef",2013,M
+"Australia, Scott Reef & Seringapatam Reef",2016,S
+Chagos Archipelago (UK),1998,S
+Chagos Archipelago (UK),2003,S
+Chagos Archipelago (UK),2004,S
+Chagos Archipelago (UK),2005,M
+Chagos Archipelago (UK),2015,S
+Chagos Archipelago (UK),2016,S
+Comoros,1983,S
+Comoros,1998,S
+Comoros,2010,S
+Comoros,2016,S
+"Egypt, Red Sea, Hurghada",2004,S
+"Egypt, Red Sea, Hurghada",2005,S
+"Egypt, Red Sea, Hurghada",2007,M
+"India, Lakshadweep",1998,S
+"India, Lakshadweep",2002,S
+"India, Lakshadweep",2007,S
+"India, Lakshadweep",2010,S
+"India, Lakshadweep",2016,S
+Kenya,1987,S
+Kenya,1998,S
+Kenya,2003,M
+Kenya,2005,S
+Kenya,2007,M
+Kenya,2010,S
+Kenya,2016,M
+La Reunion (France),1983,M
+La Reunion (France),1987,S
+La Reunion (France),1998,S
+La Reunion (France),2001,M
+La Reunion (France),2004,M
+La Reunion (France),2005,M
+La Reunion (France),2009,M
+La Reunion (France),2011,M
+La Reunion (France),2016,S
+"Madagascar, Southwest",1998,S
+"Madagascar, Southwest",2001,M
+"Madagascar, Southwest",2002,M
+"Madagascar, Southwest",2003,M
+"Madagascar, Southwest",2005,S
+"Madagascar, Southwest",2010,S
+"Madagascar, Southwest",2016,S
+Maldives,1987,S
+Maldives,1998,S
+Maldives,2003,M
+Maldives,2004,M
+Maldives,2007,M
+Maldives,2010,S
+Maldives,2015,M
+Maldives,2016,S
+Mauritius (France),1998,M
+Mauritius (France),2002,M
+Mauritius (France),2003,M
+Mauritius (France),2004,M
+Mauritius (France),2005,S
+Mauritius (France),2009,M
+Mauritius (France),2010,S
+Mauritius (France),2016,S
+Mayotte (France),1983,S
+Mayotte (France),1987,S
+Mayotte (France),1998,S
+Mayotte (France),2010,S
+Mayotte (France),2011,M
+Mayotte (France),2016,S
+Mozambique,1998,S
+Mozambique,2005,S
+Mozambique,2016,S
+"Saudi Arabia, Red Sea, Al Lith",2010,S
+"Saudi Arabia, Red Sea, Al Lith",2015,S
+"Saudi Arabia, Red Sea, Thuwal",1998,S
+"Saudi Arabia, Red Sea, Thuwal",2010,S
+"Saudi Arabia, Red Sea, Thuwal",2015,S
+Seychelles,1998,S
+Seychelles,2002,M
+Seychelles,2003,M
+Seychelles,2010,S
+Seychelles,2016,S
+"Seychelles, Aldabra",1998,S
+"Seychelles, Aldabra",2010,S
+"Seychelles, Aldabra",2016,S
+"South Africa, St Lucia",1998,M
+"South Africa, St Lucia",2000,M
+"South Africa, St Lucia",2001,M
+"South Africa, St Lucia",2005,M
+Sri Lanka,1998,S
+Sri Lanka,2002,S
+Sri Lanka,2004,M
+Sri Lanka,2005,M
+Sri Lanka,2010,S
+Sri Lanka,2015,M
+Sri Lanka,2016,S
+Tanzania,1998,S
+Tanzania,2003,M
+Tanzania,2016,S
+"United Arab Emirates, Arabian Gulf",1996,S
+"United Arab Emirates, Arabian Gulf",1998,S
+"United Arab Emirates, Arabian Gulf",2002,S
+"United Arab Emirates, Arabian Gulf",2010,S
+"United Arab Emirates, Arabian Gulf",2011,M
+"United Arab Emirates, Arabian Gulf",2012,M
+"United Arab Emirates, Arabian Gulf",2014,M
+"United Arab Emirates, Arabian Gulf",2015,S
+"United Arab Emirates, Arabian Gulf",2016,M
+American Samoa,1994,S
+American Samoa,1998,M
+American Samoa,2001,M
+American Samoa,2002,S
+American Samoa,2003,M
+American Samoa,2004,M
+American Samoa,2005,M
+American Samoa,2006,M
+American Samoa,2015,S
+Colombia (Pacific),1983,S
+Colombia (Pacific),1998,S
+Colombia (Pacific),2015,M
+Commonwealth of the Northern Mariana Islands,1994,M
+Commonwealth of the Northern Mariana Islands,1995,M
+Commonwealth of the Northern Mariana Islands,1997,M
+Commonwealth of the Northern Mariana Islands,1998,S
+Commonwealth of the Northern Mariana Islands,2001,M
+Commonwealth of the Northern Mariana Islands,2003,S
+Commonwealth of the Northern Mariana Islands,2006,M
+Commonwealth of the Northern Mariana Islands,2010,S
+Commonwealth of the Northern Mariana Islands,2013,S
+Commonwealth of the Northern Mariana Islands,2014,S
+Commonwealth of the Northern Mariana Islands,2015,S
+Commonwealth of the Northern Mariana Islands,2016,S
+Cook Island,1991,S
+Cook Island,1994,S
+Cook Island,1998,M
+Cook Island,2000,S
+Cook Island,2006,M
+Cook Island,2009,M
+Cook Island,2016,S
+Costa Rica (Pacific),1983,S
+Costa Rica (Pacific),1987,S
+Costa Rica (Pacific),1991,S
+Costa Rica (Pacific),1992,M
+Costa Rica (Pacific),1998,S
+Ecuador (mainland),1998,S
+"Fiji, Southeast & Southwest",2000,S
+"Fiji, Southeast & Southwest",2002,S
+"Fiji, Southeast & Southwest",2006,M
+"Fiji, Southeast & Southwest",2016,S
+"French Polynesia, Society Islands",1984,S
+"French Polynesia, Society Islands",1987,S
+"French Polynesia, Society Islands",1991,S
+"French Polynesia, Society Islands",1994,S
+"French Polynesia, Society Islands",1997,M
+"French Polynesia, Society Islands",1998,M
+"French Polynesia, Society Islands",2001,M
+"French Polynesia, Society Islands",2002,S
+"French Polynesia, Society Islands",2003,S
+"French Polynesia, Society Islands",2007,S
+"French Polynesia, Society Islands",2009,S
+"French Polynesia, Society Islands",2016,S
+Galapagos,1983,S
+Galapagos,1987,S
+Galapagos,1998,S
+Guam,1994,S
+Guam,1996,S
+Guam,2006,S
+Guam,2007,S
+Guam,2010,M
+Guam,2011,M
+Guam,2012,M
+Guam,2013,S
+Guam,2014,S
+Guam,2015,S
+Guam,2016,S
+Hawaii (main islands),1986,M
+Hawaii (main islands),1987,S
+Hawaii (main islands),1988,M
+Hawaii (main islands),1996,S
+Hawaii (main islands),2004,S
+Hawaii (main islands),2010,M
+Hawaii (main islands),2014,S
+Hawaii (main islands),2015,S
+Hawaii (North West Islands),2002,S
+Hawaii (North West Islands),2004,S
+Hawaii (North West Islands),2006,M
+Hawaii (North West Islands),2014,S
+Hawaii (North West Islands),2015,S
+Johnston Atoll (USA),1996,S
+"Kiribati, Gilbert Islands",2004,S
+"Kiribati, Gilbert Islands",2009,S
+"Kiribati, Kiritimati (Christmas Island)",1997,S
+"Kiribati, Kiritimati (Christmas Island)",2015,S
+"New Caledonia, Southwest",1983,M
+"New Caledonia, Southwest",1996,S
+"New Caledonia, Southwest",1998,M
+"New Caledonia, Southwest",2016,S
+Palau,1996,M
+Palau,1998,S
+Palau,1999,M
+Palau,2010,S
+Panama (Gulf of Chiriqui),1983,S
+Panama (Gulf of Chiriqui),1998,S
+Panama (Gulf of Chiriqui),2015,S
+Panama (Gulf of Panama),1983,S
+Panama (Gulf of Panama),1992,M
+Panama (Gulf of Panama),1995,M
+Republic of the Marshall Islands,1992,M
+Republic of the Marshall Islands,1993,M
+Republic of the Marshall Islands,2002,S
+Republic of the Marshall Islands,2003,M
+Republic of the Marshall Islands,2004,M
+Republic of the Marshall Islands,2005,M
+Republic of the Marshall Islands,2006,M
+Republic of the Marshall Islands,2014,S
+Republic of the Marshall Islands,2015,M
+Samoa (Western),1998,S
+Samoa (Western),2000,S
+Samoa (Western),2002,S
+Samoa (Western),2015,S
+Vanuatu,2001,S
+Vanuatu,2002,S
+Vanuatu,2005,S
+Vanuatu,2006,M
+Vanuatu,2007,M
+Vanuatu,2016,S
+Bahamas,1983,M
+Bahamas,1987,S
+Bahamas,1990,M
+Bahamas,1991,M
+Bahamas,1992,M
+Bahamas,1993,M
+Bahamas,1994,M
+Bahamas,1995,M
+Bahamas,1998,S
+Bahamas,2005,M
+Bahamas,2007,M
+Bahamas,2010,M
+Bahamas,2015,M
+Barbados,1987,S
+Barbados,1998,S
+Barbados,2005,S
+Barbados,2006,M
+Barbados,2010,S
+Barbados,2014,M
+Belize,1995,S
+Belize,1996,M
+Belize,1997,M
+Belize,1998,S
+Belize,1999,M
+Belize,2000,M
+Belize,2003,M
+Belize,2005,M
+Belize,2007,M
+Belize,2008,M
+Belize,2010,M
+Belize,2015,M
+Bermuda,1983,M
+Bermuda,1988,S
+Bermuda,1990,M
+Bermuda,1991,S
+Bermuda,1992,M
+Bermuda,1995,M
+Bermuda,1997,M
+Bermuda,1998,M
+Bermuda,2000,M
+Bermuda,2003,M
+Bermuda,2005,M
+Bermuda,2013,M
+Bermuda,2015,M
+Bonaire,1987,M
+Bonaire,1995,S
+Bonaire,1998,M
+Bonaire,2005,M
+Bonaire,2010,M
+Bonaire,2015,M
+British Virgin Islands,1987,S
+British Virgin Islands,1998,S
+British Virgin Islands,2005,S
+Cayman Islands,1987,S
+Cayman Islands,1988,M
+Cayman Islands,1995,S
+Cayman Islands,1998,S
+Cayman Islands,1999,M
+Cayman Islands,2000,M
+Cayman Islands,2002,M
+Cayman Islands,2003,M
+Cayman Islands,2004,M
+Cayman Islands,2005,S
+Cayman Islands,2007,M
+Cayman Islands,2009,S
+Cayman Islands,2010,M
+Cayman Islands,2015,S
+Columbia (Caribbean),1983,S
+Columbia (Caribbean),1987,M
+Columbia (Caribbean),1988,M
+Columbia (Caribbean),1990,M
+Columbia (Caribbean),1995,M
+Columbia (Caribbean),1997,M
+Columbia (Caribbean),1998,M
+Columbia (Caribbean),1999,M
+Columbia (Caribbean),2003,M
+Columbia (Caribbean),2004,M
+Columbia (Caribbean),2005,S
+Columbia (Caribbean),2009,M
+Columbia (Caribbean),2010,M
+Columbia (Caribbean),2015,M
+Costa Rica (Caribbean),1983,S
+Costa Rica (Caribbean),1992,S
+Costa Rica (Caribbean),1995,S
+Costa Rica (Caribbean),1998,M
+Costa Rica (Caribbean),2010,M
+Cuba,1983,S
+Cuba,1989,M
+Cuba,1990,M
+Cuba,1993,M
+Cuba,1994,M
+Cuba,1995,S
+Cuba,1997,M
+Cuba,1998,S
+Cuba,2001,M
+Cuba,2005,S
+Cuba,2009,S
+Cuba,2010,S
+Cuba,2011,M
+Cuba,2012,M
+Cuba,2013,M
+Cuba,2014,M
+Cuba,2015,S
+Curacao,1987,S
+Curacao,1990,S
+Curacao,1996,M
+Curacao,1998,M
+Curacao,2010,M
+Dominican Republic,1987,S
+Dominican Republic,1990,M
+Dominican Republic,2003,M
+Dominican Republic,2004,M
+Dominican Republic,2005,S
+Dominican Republic,2006,S
+Dominican Republic,2009,M
+Dominican Republic,2010,M
+Dominican Republic,2015,M
+Florida Keys,1980,M
+Florida Keys,1983,S
+Florida Keys,1985,M
+Florida Keys,1987,S
+Florida Keys,1989,M
+Florida Keys,1990,S
+Florida Keys,1997,S
+Florida Keys,1998,S
+Florida Keys,1999,M
+Florida Keys,2000,M
+Florida Keys,2003,M
+Florida Keys,2004,M
+Florida Keys,2005,M
+Florida Keys,2006,M
+Florida Keys,2007,M
+Florida Keys,2011,M
+Florida Keys,2014,M
+Florida Keys,2015,S
+Gulf of Mexico (Texas Flower Gardens),1987,M
+Gulf of Mexico (Texas Flower Gardens),1989,M
+Gulf of Mexico (Texas Flower Gardens),1990,M
+Gulf of Mexico (Texas Flower Gardens),1991,M
+Gulf of Mexico (Texas Flower Gardens),1997,M
+Gulf of Mexico (Texas Flower Gardens),1998,M
+Gulf of Mexico (Texas Flower Gardens),2002,M
+Gulf of Mexico (Texas Flower Gardens),2003,M
+Gulf of Mexico (Texas Flower Gardens),2005,S
+Gulf of Mexico (Texas Flower Gardens),2006,M
+Gulf of Mexico (Texas Flower Gardens),2008,S
+Gulf of Mexico (Texas Flower Gardens),2010,M
+Honduras,1987,S
+Honduras,1995,S
+Honduras,1997,M
+Honduras,1998,S
+Honduras,2005,S
+Honduras,2009,M
+Honduras,2010,M
+Jamaica,1986,M
+Jamaica,1987,S
+Jamaica,1988,M
+Jamaica,1989,S
+Jamaica,1990,S
+Jamaica,1991,M
+Jamaica,1995,M
+Jamaica,1998,S
+Jamaica,1999,M
+Jamaica,2000,M
+Jamaica,2003,M
+Jamaica,2005,S
+Jamaica,2008,M
+Jamaica,2010,S
+Mexico (Yucatan),1988,M
+Mexico (Yucatan),1995,S
+Mexico (Yucatan),1997,M
+Mexico (Yucatan),1998,S
+Mexico (Yucatan),2003,M
+Mexico (Yucatan),2004,M
+Mexico (Yucatan),2005,S
+Mexico (Yucatan),2006,M
+Mexico (Yucatan),2007,M
+Mexico (Yucatan),2008,M
+Mexico (Yucatan),2009,M
+Mexico (Yucatan),2011,M
+Panama (Caribbean),1983,S
+Panama (Caribbean),1988,S
+Panama (Caribbean),1995,M
+Panama (Caribbean),1997,M
+Panama (Caribbean),2002,M
+Panama (Caribbean),2005,S
+Panama (Caribbean),2015,M
+Puerto Rico,1980,M
+Puerto Rico,1981,M
+Puerto Rico,1982,M
+Puerto Rico,1983,M
+Puerto Rico,1987,S
+Puerto Rico,1988,M
+Puerto Rico,1990,S
+Puerto Rico,1995,S
+Puerto Rico,1998,S
+Puerto Rico,1999,M
+Puerto Rico,2001,M
+Puerto Rico,2003,S
+Puerto Rico,2005,S
+Puerto Rico,2010,S
+Puerto Rico,2015,M
+St Croix & US Virgin Islands,1987,M
+St Croix & US Virgin Islands,1988,M
+St Croix & US Virgin Islands,1990,M
+St Croix & US Virgin Islands,1993,M
+St Croix & US Virgin Islands,1998,S
+St Croix & US Virgin Islands,1999,M
+St Croix & US Virgin Islands,2005,S
+St Croix & US Virgin Islands,2006,M
+St Croix & US Virgin Islands,2010,S
+Tobago,1987,M
+Tobago,1998,S
+Tobago,2002,M
+Tobago,2005,S
+Tobago,2008,M
+Tobago,2010,S
+Tobago,2012,M
+Tobago,2013,M
+Venezuela,1987,M
+Venezuela,1995,M
+Venezuela,1998,M
+Venezuela,2005,M
+Venezuela,2006,M
+Venezuela,2010,S
