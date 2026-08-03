@@ -71,7 +71,7 @@ The following steps were performed:
 
 ### Top 15 Longest Divers
 
-![Top 15 Longest Divers](images/plots/top15_longest_divers.png)
+![Top 15 Longest Divers](images/plots/top15_divers_vs_human.png)
 
 Ranks the fifteen longest-diving marine animals and includes the human breath-hold record as a reference line for comparison.
 
@@ -79,7 +79,7 @@ Ranks the fifteen longest-diving marine animals and includes the human breath-ho
 
 ### Average Dive Duration by Category
 
-![Average Dive Duration by Category](images/plots/avg_duration_by_category.png)
+![Average Dive Duration by Category](images/plots/average_duration_by_category.png)
 
 Compares average dive duration across animal categories while displaying the number of species contributing to each average.
 
