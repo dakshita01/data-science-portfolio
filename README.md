@@ -11,7 +11,7 @@
 **Dakshita Biwal**  
 B.Tech Computer Science Engineering Student | Aspiring Data Scientist
 
-[LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN) • [GitHub](https://github.com/dakshita01)
+[LinkedIn](https://linkedin.com/in/dakshitabiwal) • [GitHub](https://github.com/dakshita01)
 
 ---
 
